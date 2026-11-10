@@ -1,0 +1,10 @@
+# build output
+build/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# editor and OS files
+.vscode/
+.DS_Store
